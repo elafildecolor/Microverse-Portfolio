@@ -1,6 +1,7 @@
-# Hello Microverse
+# Microverse Portfolio
 
-This is my very first project from ![](https://img.shields.io/badge/Microverse-blueviolet). This task requires us to use ![](https://img.shields.io/badge/Git-orange), ![](https://img.shields.io/badge/GitHub-blueviolet) and ![](https://img.shields.io/badge/Visual_Studio_Code-blue) to create branches, understand the concept of version control, follow ![](https://img.shields.io/badge/GitHub-blueviolet) flow, open pull requests in ![](https://img.shields.io/badge/GitHub-blueviolet), write descriptive, easy to understand commit messages, write short, detailed, easy to understand descriptions of pull requests, write a descriptive and easy to understand README in business English and demonstrate an ability to submit a project for code review.
+This is my second project from ![](https://img.shields.io/badge/Microverse-blueviolet). This task requires us to understand how to parse a ![](https://img.shields.io/badge/Figma-white) design to create a UI, use ![](https://img.shields.io/badge/Flexbox-white) to place elements in the page, build a personal portfolio site, and ![](https://img.shields.io/badge/Visual_Studio_Code-blue) to create branches, understand the concept of version control, follow ![](https://img.shields.io/badge/GitHub-blueviolet) flow, open pull requests in ![](https://img.shields.io/badge/GitHub-blueviolet), write descriptive, easy to understand commit messages, write short, detailed, easy to understand descriptions of pull requests, write a descriptive and easy to understand README in business English and demonstrate an ability to submit a project for code review.
+
 
 ## Built With
 
