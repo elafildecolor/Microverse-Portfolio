@@ -1,62 +1,83 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# Hello Microverse
 
-# Project Name
-
-> Description the project.
-
+This is my very first project from ![](https://img.shields.io/badge/Microverse-blueviolet). This task requires us to use ![](https://img.shields.io/badge/Git-orange), ![](https://img.shields.io/badge/GitHub-blueviolet) and ![](https://img.shields.io/badge/Visual_Studio_Code-blue) to create branches, understand the concept of version control, follow ![](https://img.shields.io/badge/GitHub-blueviolet) flow, open pull requests in ![](https://img.shields.io/badge/GitHub-blueviolet), write descriptive, easy to understand commit messages, write short, detailed, easy to understand descriptions of pull requests, write a descriptive and easy to understand README in business English and demonstrate an ability to submit a project for code review.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML
+- CSS
 
-## Live Demo (if available)
+## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://elafildecolor.github.io/Hello-Microverse/)
 
 
 ## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
 
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
+- Git
+
+- Code editor like: [Visual Studio code](https://code.visualstudio.com/), [Sublime text](https://www.sublimetext.com/) or others...
+
+- Npm and Node.js
+
 ### Setup
+
+- You can download the **Zip** file on the GitHub repository, or clone the repository with:
+```
+$git clone https://github.com/elafildecolor/Hello-Microverse.git
+```
+
+- Access the cloned directory with:
+```
+$cd Hello-Microverse
+```
+
+- Open it with your favorite code editor or with the live server
+
 
 ### Install
 
-### Usage
+To install linters and other dependencies run:
+```
+$npm install <dependency>
+```
 
 ### Run tests
 
-### Deployment
+To analyze the source code in your local environment with linter follow these steps:
 
+- Looking for linter errors in HTML files run:
+```
+$npx hint .
+```
 
+- Looking for linter errors in CSS | SASS files run:
+```
+$npx stylelint "**/*.{css,scss}"
+```
+
+-Looking for linter errors in JavaScript files run:
+```
+$npx eslint .
+```
 
 ## Authors
 
-👤 **Author1**
+👤 **Paul Sáenz Sucre**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@elalfildecolor](https://github.com/elafildecolor)
+- Twitter: [@paulsaenzsucre](https://twitter.com/paulsaenzsucre)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/paulsaenzsucre)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/elafildecolor/Hello-Microverse/issues).
 
 ## Show your support
 
@@ -64,12 +85,10 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Hat tip to anyone whose code was used.
+- Thank you for all the curated content that was provided to us.
+- Thanks to my learning partners for all their support.
 
 ## 📝 License
 
 This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
